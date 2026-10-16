@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+/tmp/
+/output/archive/
+/学生手册精确扫描/
